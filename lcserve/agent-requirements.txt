@@ -3,3 +3,4 @@ wolframalpha
 wikipedia
 google-search-results
 google-api-python-client
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
